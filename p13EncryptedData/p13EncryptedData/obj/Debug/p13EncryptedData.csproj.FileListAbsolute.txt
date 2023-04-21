@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p13EncryptedData\p13EncryptedData\bin\Debug\p13EncryptedData.exe.config
+C:\Users\mberk\source\repos\p13EncryptedData\p13EncryptedData\bin\Debug\p13EncryptedData.exe
+C:\Users\mberk\source\repos\p13EncryptedData\p13EncryptedData\bin\Debug\p13EncryptedData.pdb
+C:\Users\mberk\source\repos\p13EncryptedData\p13EncryptedData\obj\Debug\p13EncryptedData.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p13EncryptedData\p13EncryptedData\obj\Debug\p13EncryptedData.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p13EncryptedData\p13EncryptedData\obj\Debug\p13EncryptedData.Form1.resources
+C:\Users\mberk\source\repos\p13EncryptedData\p13EncryptedData\obj\Debug\p13EncryptedData.Properties.Resources.resources
+C:\Users\mberk\source\repos\p13EncryptedData\p13EncryptedData\obj\Debug\p13EncryptedData.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p13EncryptedData\p13EncryptedData\obj\Debug\p13EncryptedData.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p13EncryptedData\p13EncryptedData\obj\Debug\p13EncryptedData.exe
+C:\Users\mberk\source\repos\p13EncryptedData\p13EncryptedData\obj\Debug\p13EncryptedData.pdb
